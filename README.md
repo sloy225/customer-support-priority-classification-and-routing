@@ -1,4 +1,4 @@
-# 🎫 Ticket Routing — Priorisation et Routage Intelligent de Tickets Support
+# Ticket Routing — Priorisation et Routage Intelligent de Tickets Support
 
 > Projet de fin d'études — Big Data & Intelligence Artificielle  
 > Pipeline ML complet : prétraitement · modèles maison & préentraîné · API FastAPI · Interface Streamlit
